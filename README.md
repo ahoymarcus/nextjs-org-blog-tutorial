@@ -1,44 +1,43 @@
-# Mr Smileys App - React-JS and D3.js
+# Next.JS Blog Tutorial - Next.js
  
 
 <br />
 
-Projeto para criar um React-JS app que renderiza 'carinhas' de emoji usando SVG e a biblioteca JavaScript D3.js.:[^1]
+Tutorial da Next.JS para criar uma apliação de teste para aprendizado do framework Next.js.:[^1]
 
 <br />
 
-**Parte do curso de Visualização de Dados da Freecodecamp.org**
+Como parte do tutorial é estudado entre outros, sobre o tratamento do conteúdo estático, Roteamento no frontend, estilização CSS modular com o JavaScript, etc...
 
 
 <br />
 
 R:
 
-- [Mr Smileys App no Netlify](https://d3js-reactjs-emoji-faces.netlify.app/)
+- [______ App no ______]()
 
 <br />
 
 Dependências:
 
-- React-JS
-- D3.js
+- Next-JS
 
 
 
 <br />
 
 
-### Imagem do App criando o emoji Smiley:
+### I:
 
-![Imagem do App criando o emoji Smiley](/public/images/d3js-reactjs-smiley-face-01.png)
+![Imagem do App criando o emoji Smiley](/public/images/)
 
 
 <br />
 
 
-### Imagem do App criando variações de um emoji:
+### I:
 
-![Imagem do App criando variações de um emoji:](/public/images/d3js-reactjs-smiley-face-02.png)
+![Imagem do App criando variações de um emoji:](/public/images/)
 
 
 
@@ -49,4 +48,4 @@ Dependências:
 
 [freecodecamp.org](https://www.freecodecamp.org/)
 
-[^1]:freecodecamp.org 
+[^1]:https://nextjs.org/learn/basics/create-nextjs-app/setup 
