@@ -27,9 +27,9 @@ Dependências:
 <br />
 
 
-### I:
+### Imagem do Blog com o seu conteúdo estático:
 
-![Imagem do App criando o emoji Smiley](/public/images/)
+![Imagem do Blog com o seu conteúdo estático](/public/images/nextjs-org-blog-tutorial-01.png)
 
 
 <br />
@@ -46,6 +46,5 @@ Dependências:
 <br />
 <br />
 
-[freecodecamp.org](https://www.freecodecamp.org/)
 
 [^1]:https://nextjs.org/learn/basics/create-nextjs-app/setup 
