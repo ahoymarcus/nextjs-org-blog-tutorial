@@ -1,4 +1,5 @@
 // https://nextjs.org/learn/basics/assets-metadata-css/global-styles
+// estilo globais
 import Head from 'next/head'
 import Link from 'next/link';
 
