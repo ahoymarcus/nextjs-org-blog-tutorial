@@ -46,7 +46,7 @@ Dependências:
 
 ### I:
 
-![Imagem do Blog apresentando ao final uma lista com mensagens postadas](/public/images/)
+![Imagem do Blog apresentando ao final uma lista com mensagens postadas](/public/images/nextjs-org-blog-tutorial-03.png)
 
 
 

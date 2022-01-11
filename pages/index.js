@@ -1,10 +1,12 @@
 // https://nextjs.org/learn/basics/dynamic-routes
 // styles
 import Head from 'next/head';
+import Link from 'next/link';
 import utilStyles from '../styles/utils.module.css';
  
 // components
 import Layout, { siteTitle } from '../components/layout';
+import Date from '../components/date';
 
 // data 
 import { getSortedPostsData } from '../lib/posts';
@@ -60,11 +62,13 @@ export default function Home({ allPostsData }) {
 					<ul className={utilStyles.list}>
 						{allPostsData.map(({ id, date, title }) => (
 							<li className={utilStyles.listItem} key={id}>
-								{title}
+								<Link href={`/posts/${id}`}>
+									<a>{title}</a>
+								</Link>
 								<br />
-								{id}
-								<br />
-								{date}
+								<small className={utilStyles.lightText}>
+									<Date dateString={date} />
+								</small>
 							</li>
 						))}
 					</ul>
