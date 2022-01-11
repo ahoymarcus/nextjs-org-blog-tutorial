@@ -12,9 +12,9 @@ Como parte do tutorial é estudado entre outros, sobre o tratamento do conteúdo
 
 <br />
 
-R:
 
-- [______ App no ______]()
+- [my Next-JS Blog App em Vercel](https://nextjs-org-blog-tutorial.vercel.app/)
+
 
 <br />
 
