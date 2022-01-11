@@ -7,7 +7,7 @@ Tutorial da Next.JS para criar uma apliação de teste para aprendizado do frame
 
 <br />
 
-Como parte do tutorial é estudado entre outros, sobre o tratamento do conteúdo estático, Roteamento no frontend, estilização CSS modular com o JavaScript, etc...
+Como parte do tutorial é estudado entre outros, sobre o tratamento do conteúdo estático, Roteamento no frontend, estilização CSS modular com o JavaScript, uso dinâmico de dados (FileSystem, Banco de Dados ou APIs, etc...).
 
 
 <br />

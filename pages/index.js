@@ -1,4 +1,4 @@
-// https://nextjs.org/learn/basics/assets-metadata-css/styling-tips
+// https://nextjs.org/learn/basics/dynamic-routes
 // styles
 import Head from 'next/head';
 import utilStyles from '../styles/utils.module.css';
