@@ -44,9 +44,9 @@ Dependências:
 <br />
 
 
-### I:
+### Imagem do Blog apresentando uma página dinâmica de postagem:
 
-![Imagem do Blog apresentando ao final uma lista com mensagens postadas](/public/images/nextjs-org-blog-tutorial-03.png)
+![Imagem do Blog apresentando uma página dinâmica de postagem](/public/images/nextjs-org-blog-tutorial-03.png)
 
 
 
