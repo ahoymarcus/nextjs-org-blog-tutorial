@@ -21,7 +21,7 @@ R:
 Dependências:
 
 - Next-JS
-
+- Gray-matter
 
 
 <br />
@@ -35,9 +35,9 @@ Dependências:
 <br />
 
 
-### I:
+### Imagem do Blog apresentando ao final uma lista com mensagens postadas que é inserida para silumar uma requisição Fetch ou Query em banco de dados:
 
-![Imagem do App criando variações de um emoji:](/public/images/)
+![Imagem do Blog apresentando ao final uma lista com mensagens postadas](/public/images/nextjs-org-blog-tutorial-02.png)
 
 
 
