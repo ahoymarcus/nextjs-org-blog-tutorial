@@ -1,4 +1,4 @@
-// https://nextjs.org/learn/basics/dynamic-routes
+// https://nextjs.org/learn/basics/dynamic-routes/dynamic-routes-details
 // styles
 import Head from 'next/head';
 import Link from 'next/link';

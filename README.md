@@ -22,6 +22,9 @@ Dependências:
 
 - Next-JS
 - Gray-matter
+- Date-fns
+- Remark
+- Remark-html
 
 
 <br />
